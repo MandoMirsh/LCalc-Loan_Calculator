@@ -1,0 +1,20 @@
+content:
+- Naming variables
+- Integer arithmetic
+- Quotes and multi-line strings
+- Taking input
+- Program with numbers
+- Comparisons
+- If statement
+- Else statement
+- Elif statement
+- String formatting
+- Invoking a function
+- Load module
+- Math functions
+- Declaring a function
+- While loop
+- For loop
+- Errors
+- Command line arguments
+- Argparse module
